@@ -1,0 +1,12 @@
+datascience :
+  name: datascience
+  description: False
+  cover: assets/built/images/blog-cove1r.jpg
+til :
+  name: til
+  description: False
+  cover: assets/built/images/til.png
+# economy :
+#   name: economy
+#   description: False
+#   cover: assets/built/images/background-frontend.jpg
