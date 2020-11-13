@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/built/images/design.jpg
+cover:  assets/built/images/python-class.jpg
 navigation: True
 title: Python - "Class" 이녀석
 date: 2020-11-13 16:40:00
