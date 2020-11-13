@@ -1,7 +1,7 @@
 #############################################################################
 #
 # Modified version of jekyllrb Rakefile
-# https://github.com/jekyll/jekyll/blob/master/Rakefile
+# https://github.com/jekyll/jekyll/blob/main/Rakefile
 #
 #############################################################################
 
@@ -13,7 +13,7 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-DESTINATION_BRANCH = "master"
+DESTINATION_BRANCH = "main"
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
