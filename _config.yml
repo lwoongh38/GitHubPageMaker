@@ -63,7 +63,7 @@ favicon: assets/built/images/atom-icon.png
 production_url: https://lwoongh38.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: 
+source_url: https://github.com/lwoongh38/GitHubPageMaker/
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -116,12 +116,12 @@ repo: GitHubPageMaker
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
 
-branch: master
+branch: main
 # 사용할 branch명
 
 relative_source:
 
-destination: ../[GitHubPage]/
+destination: ./output/
 # compile된 결과가 생성되는 폴더
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
 # 이 폴더안의 내용을 github repository(https://username.github.io)에 push
