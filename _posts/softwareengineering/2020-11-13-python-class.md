@@ -5,13 +5,15 @@ cover:  assets/built/images/python-class.jpg
 navigation: True
 title: Python - "Class" 이녀석
 date: 2020-11-13 16:40:00
-tags: [datascience]
+tags: [softwareengineering]
 class: post-template
-subclass: 'post tag-datascience'
+subclass: 'post tag-softwareengineering'
 author: woongE
 ---
+#Python #Class #softwareengineering
 
-{% include datascience-table-of-contents.html %}
+
+{% include softwareengineering-table-of-contents.html %}
 
 ### Software Engineering...
 ---

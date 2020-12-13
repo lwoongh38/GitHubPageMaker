@@ -1,11 +1,24 @@
-datascience :
-  name: datascience
-  description: False
-  cover: assets/built/images/blog-cove1r.jpg
+# datascience :
+#   name: datascience
+#   description: False
+#   cover: assets/built/images/blog-cove1r.jpg
+
 til :
   name: til
   description: False
   cover: assets/built/images/til.png
+
+softwareengineering :
+  name: softwareengineering
+  description: False
+  cover: assets/built/images/software-engineering.jpg
+
+
+
+
+
+
+
 # economy :
 #   name: economy
 #   description: False
