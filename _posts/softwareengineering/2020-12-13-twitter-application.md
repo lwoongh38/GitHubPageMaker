@@ -60,8 +60,7 @@ Application repo : https://github.com/lwoongh38/portfolio
 `__init__.py`와 `models.py` 파일을 작성했다면 어플리케이션에서 사용자가 입력한 정보를 저장할 데이터베이스를 구축하고 연결해야 한다.
 데이터베이스는 간단히 코드 세줄로 구축 및 연결이 가능하다.
 
-<summary>
-<details>
+
 
 ```py
 # 데이터베이스 구축
@@ -73,8 +72,6 @@ FLASK_APP=twitter_app flask db upgrade
 
 ```
 
-</details>
-</summary>
 
 ### 3. routes & templates 생성
 
