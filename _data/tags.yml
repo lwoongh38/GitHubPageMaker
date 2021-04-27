@@ -13,8 +13,13 @@ softwareengineering :
   description: False
   cover: assets/built/images/software-engineering.jpg
 
-deeplearning : 
-  name: deeplearning
+ai : 
+  name: ai
+  description: False
+  cover: assets/built/images/deeplearning.jpeg
+
+fundemental :
+  name: fundemental
   description: False
   cover: assets/built/images/deeplearning.jpeg
 

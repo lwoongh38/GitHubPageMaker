@@ -5,15 +5,15 @@ cover:  assets/built/images/SUMMARY.jpg
 navigation: True
 title: Deep Learning - 핵심 개념 & 용어 
 date: 2020-01-17 22:00:00
-tags: [deeplearning]
+tags: [ai]
 class: post-template
-subclass: 'post tag-deeplearning'
+subclass: 'post tag-ai'
 author: woongE
 ---
 #deeplearning #용어 #개념
 
 
-{% include deeplearning-table-of-contents.html %}
+{% include ai-table-of-contents.html %}
 
 # Deep Learning Summary - 핵심 개념 & 용어
 

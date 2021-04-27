@@ -5,15 +5,15 @@ cover:  assets/built/images/bert.jpg
 navigation: True
 title: Deep Learning - Project4 - BERT 
 date: 2020-01-13 19:00:00
-tags: [deeplearning]
+tags: [ai]
 class: post-template
-subclass: 'post tag-deeplearning'
+subclass: 'post tag-ai'
 author: woongE
 ---
 #BERT #textmining #deeplearning
 
 
-{% include deeplearning-table-of-contents.html %}
+{% include ai-table-of-contents.html %}
 
 # Section 4 Project - Text emotion classification
 
