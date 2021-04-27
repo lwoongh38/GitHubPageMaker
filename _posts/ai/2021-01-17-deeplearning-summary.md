@@ -4,7 +4,7 @@ current: post
 cover:  assets/built/images/SUMMARY.jpg
 navigation: True
 title: Deep Learning - 핵심 개념 & 용어 
-date: 2020-01-17 22:00:00
+date: 2021-01-17 22:00:00
 tags: [ai]
 class: post-template
 subclass: 'post tag-ai'
