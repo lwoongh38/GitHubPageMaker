@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-ai'
 author: woongE
 ---
-#BERT #textmining #deeplearning
+#randomforest #XGB #machinelearning
 
 
 {% include ai-table-of-contents.html %}
