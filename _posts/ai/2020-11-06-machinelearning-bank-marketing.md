@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/built/images/bert.jpg
+cover:  assets/built/images/bankmarketing.jpg
 navigation: True
 title: Machine Learning - Project2 - Bank marketing 정기예금 가입여부 예측하기
 date: 2020-11-06 19:00:00

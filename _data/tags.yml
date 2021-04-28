@@ -21,7 +21,7 @@ ai :
 fundemental :
   name: fundemental
   description: False
-  cover: assets/built/images/deeplearning.jpeg
+  cover: assets/built/images/datascience.jpg
 
 
 
