@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/built/images/linearregression.png
 navigation: True
-title: Machine Learning - 연어의 회귀본능이 아닌 선형회귀에 대해 알아보자
+title: 연어의 회귀본능이 아닌 선형회귀에 대해 알아보자
 date: 2020-10-16 19:00:00
 tags: [ai]
 class: post-template

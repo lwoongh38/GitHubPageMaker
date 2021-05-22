@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/built/images/bert.jpg
 navigation: True
-title: Deep Learning - Project4 - BERT 
+title: NLP - 딥러닝 모델의 범용적 활용가능성 분석
 date: 2021-01-13 19:00:00
 tags: [ai]
 class: post-template
