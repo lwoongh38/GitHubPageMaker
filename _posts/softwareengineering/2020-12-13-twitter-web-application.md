@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/built/images/twitterlogo.jpg
 navigation: True
-title: Project 3 - Twitter Application
+title: Twitter Web Application
 date: 2020-12-13 16:40:00
 tags: [softwareengineering]
 class: post-template
