@@ -22,8 +22,7 @@ author: woongE
 본 프로젝트는 시계열(text) 데이터를 분석하기 위한 전처리 과정에서 사용자가 원하지 않는 정보를 자동적으로 필터링하여 전처리 진행 속도를 상승시키는 것을 목적으로 한다.
 Hate speech 분류에 사용되는 BiLSTM, CharCNN 등의 알고리즘을 활용 가능한지 파악하고 이를 차용하여 인스타그램의 텍스트 데이터에서 광고를 분류하는데 적용하고 각 모델의 성능을 비교한다.
 
-
-Github repo : https://github.com/lwoongh38/project_cs2
+[Github repo](https://github.com/lwoongh38/project_cs2 "프로젝트링크") 
 
 
 ---

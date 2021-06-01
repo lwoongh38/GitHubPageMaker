@@ -22,7 +22,8 @@ Deep Learning 섹션의 마무리 프로젝트는 텍스트 감정분석 모델�
 내가 정한 분야와 데이터셋에서 적절한 가설을 세우고 그 가설을 검증하는데 필요한 딥러닝 파이프라인을 구축하는 것이 프로젝트의 목표였다.
 가설 설정을 위해 끊임없이 질문을 던지고 그 질문을 어떻게 해결해야할지, 검증은 어떻게 해야 할지를 고민하며 밤을 지새웠던 지난 일주일 간의 고군분투기를 적어본다.
 
-Application repo : https://github.com/lwoongh38/project4_NLP_BERT
+[Github repo](https://github.com/lwoongh38/project4_NLP_BERT "프로젝트링크") 
+
 
 ## abstract
 
