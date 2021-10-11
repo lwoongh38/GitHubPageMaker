@@ -25,4 +25,3 @@ env:
 branches:
   only:
     - main
-    - laptop
