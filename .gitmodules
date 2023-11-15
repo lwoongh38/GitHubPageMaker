@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/lwoongh38/lwoongh38.github.io.git
+[submodule "lwoongh38.github.io"]
+	path = lwoongh38.github.io
+	url = https://github.com/lwoongh38/lwoongh38.github.io
